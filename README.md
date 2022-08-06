@@ -1,0 +1,2 @@
+# wpfy
+WordPress Tools CLI
